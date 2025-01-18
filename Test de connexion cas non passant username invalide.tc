@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test de connexion cas non passant username invalide</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13fb6a49-b402-4310-b40d-b82b47ce8698</testCaseGuid>
+</TestCaseEntity>
